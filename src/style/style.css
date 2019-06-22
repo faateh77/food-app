@@ -1,0 +1,11 @@
+.inlineDiv{
+    display: inline-block;
+    margin: 5px
+}
+#signUpTopDiv{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.Box1{
+    width: 50%;
+}
